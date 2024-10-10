@@ -31,7 +31,10 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 * Odpowiada za wprowadzenie liczby miesięcy spłaty. Zabezpiecza przed podaniem wartości ujemnych lub nieprawidłowych.
 
 ### Funkcja wczytywanieOprocentowaniaKredytu
-* Użytkownik podaje roczne oprocentowanie w procentach. Program przelicza je na oprocentowanie miesięczne
+* Użytkownik podaje roczne oprocentowanie w procentach. Program przelicza je na oprocentowanie miesięczne.
+
+### Funkcja wczytywanieNadplatyKredytu
+* Pozwala użytkownikowi na opcjonalne wprowadzenie kwoty nadpłaty. Sprawdza, czy nadpłata nie przekracza kwoty kredytu.
 ### Executing program
 
 * How to run the program
