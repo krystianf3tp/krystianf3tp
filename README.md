@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ...
 
 # Nazwa projektu
-
 Kalkulator Ratalny
 
 ## Cel i funkcje aplikacji
@@ -15,8 +14,6 @@ Kalkulator ratalny to aplikacja konsolowa, która umożliwia obliczenie harmonog
 
 ## Problem, który rozwiązuje aplikacja
 Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględniając zmienne oprocentowanie oraz nadpłaty. Pozwala na szybkie obliczenia i symulacje, które mogą być trudne do wykonania ręcznie, dostarczając użytkownikowi jasne dane o jego zobowiązaniach kredytowych.
-
-## Zacznijmy od początku
 
 ### Architektura aplikacji
 !!!!!!!!!!!!! DO ZROBIENIA
