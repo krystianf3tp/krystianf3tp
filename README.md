@@ -19,8 +19,12 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 !!!!!!!!!!!!! DO ZROBIENIA
 
 ## Opis modułów aplikacji
+
 ### Moduł wczytywania danych:
 * Odpowiada za wprowadzenie danych użytkownika takich jak, kwota kredytu, liczba miesięcy, oprocentowanie oraz nadpłata. Dane są weryfikowane pod kątem poprawności
+
+### Moduł obliczeń:
+* Oblicza miesięczną ratę kredytu z podziałem na część kapitałową i odsetkową, na podstawie wprowadzonych danych. Uwzględnia wpływa nadpłaty na pozostały kapitał oraz modyfikuje harmonogram spłat
   
 
 ### Instalacja
