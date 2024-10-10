@@ -35,6 +35,14 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 
 ### Funkcja wczytywanieNadplatyKredytu
 * Pozwala użytkownikowi na opcjonalne wprowadzenie kwoty nadpłaty. Sprawdza, czy nadpłata nie przekracza kwoty kredytu.
+
+### Funkcja obliczanieOprocentowania
+* Oblicza oprocentowanie miesięczne na podstawie wartości rocznego oprocentowania
+
+### Funkcja obliczRateKredytu
+* Oblicza miesięczną ratę kredytuz uwzględnieniem części kapitałowej i odsetkowej. Algorytm wykorzystuje formułę dla rat stałych
+
+
 ### Executing program
 
 * How to run the program
