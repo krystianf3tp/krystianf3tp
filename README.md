@@ -29,10 +29,7 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 ### Moduł wyświetlania wyników:
 * Odpowiada za prezentację harmonogramu spłat, który zawiera szczegóły każdej raty, a także informacje o nadpłatach i pozostałym kapitale
 
-### Instalacja
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+# Opis funkcji i funkcjonalności:
 
 ### Executing program
 
