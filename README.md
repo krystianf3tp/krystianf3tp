@@ -24,8 +24,14 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 
 # Opis funkcji i funkcjonalności
 
-### Funkcja
+### Funkcja wczytywanieKwotyKredytu
+* Pobiera od użytkownika kwotę kredytu. Sprawdza czy podana wartość jest liczbą dodatnią. W przypadku błędu użytkownik zostaje poproszony o ponowne wprowadzenie danych.
 
+### Funkcja wczytywanieLiczbyMiesiecy
+* Odpowiada za wprowadzenie liczby miesięcy spłaty. Zabezpiecza przed podaniem wartości ujemnych lub nieprawidłowych.
+
+### Funkcja wczytywanieOprocentowaniaKredytu
+* Użytkownik podaje roczne oprocentowanie w procentach. Program przelicza je na oprocentowanie miesięczne
 ### Executing program
 
 * How to run the program
