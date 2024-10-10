@@ -15,13 +15,12 @@ Kalkulator ratalny to aplikacja konsolowa, która umożliwia obliczenie harmonog
 ## Problem, który rozwiązuje aplikacja
 Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględniając zmienne oprocentowanie oraz nadpłaty. Pozwala na szybkie obliczenia i symulacje, które mogą być trudne do wykonania ręcznie, dostarczając użytkownikowi jasne dane o jego zobowiązaniach kredytowych.
 
-### Architektura aplikacji
+# Architektura aplikacji
 !!!!!!!!!!!!! DO ZROBIENIA
 
 ## Opis modułów aplikacji
-
-# Opis modułów aplikacji:
-(
+* Moduł wczytywania danych:
+  Odpowiada za wprowadzenie danych użytkownika takich jak, kwota kredytu, liczba miesięcy, oprocentowanie oraz nadpłata. Dane są weryfikowane pod kątem poprawności
   
 
 ### Instalacja
