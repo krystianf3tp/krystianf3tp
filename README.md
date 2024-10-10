@@ -10,9 +10,9 @@
 
 ChujCieTo - Kalkulator ratalny
 
-## Description
+## Opis
+Kalkulator ratalny to narzędzie, które pozwala na szybkie obliczenie wysokości miesięcznych rat kredytów oraz całkowitego kosztu kredytu. Wystarczy wprowadzić podstawowe dane, takie jak kwota kredytu, okres spłaty, oprocentowanie oraz nadpłatę, aby uzyskać szacunkowe wyliczenia. Program jest stworzony z myślą o użytkownikach, dlatego jakub golonka to cwel pozdro
 
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
