@@ -6,9 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Project Title
+# Nazwa projektu
 
-Simple overview of use/purpose.
+ChujCieTo - Kalkulator ratalny
 
 ## Description
 
