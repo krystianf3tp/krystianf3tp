@@ -10,14 +10,11 @@
 
 Kalkulator ratalny
 
-## Opis
-Kalkulator ratalny to przydatne narzędzie, które umożliwia szybkie i łatwe obliczenie miesięcznych rat kredytowych oraz całkowitego kosztu kredytu. Aby uzyskać szacunkowe wyliczenia, wystarczy wprowadzić podstawowe dane, takie jak:
-- Kwota kredytu: suma, którą chcesz pożyczyć.
-- Okres spłaty: czas, w którym planujesz spłacić kredyt.
-- Oprocentowanie: roczna stopa procentowa kredytu.
-- Nadpłata: dodatkowe kwoty, które planujesz wpłacać poza standardowymi ratami.
+## Cel i funkcje aplikacji:
+Kalkulator ratalny to aplikacja konsolowa, która umożliwia obliczenie harmonogramu spłat kredytu na podstawie kwoty kredytu, okresu spłaty, oprocentowania oraz opcjonalnej nadpłaty. Użytkownik wprowadza dane, a aplikacja oblicza i wyświetla miesięczne raty kredytu, dzieląc je na część kapitałową oraz odsetkową. Kalkulator pomaga również zrozumieć, jak nadpłata wpływa na skrócenie okresu kredytowania i zmniejszenie kwoty odsetek.
 
-Program jest zaprojektowany z myślą o użytkownikach, dlatego jest prosty w obsłudze i intuicyjny. Dzięki kalkulatorowi ratalnemu można szybko porównać różne oferty kredytowe i wybrać tę najkorzystniejszą. Narzędzie to uwzględnia również dodatkowe koszty, takie jak prowizje czy ubezpieczenia, co pozwala na dokładniejsze oszacowanie całkowitego kosztu kredytu. Jest to idealne rozwiązanie dla osób planujących zaciągnięcie kredytu, ponieważ pomaga w świadomym podejmowaniu decyzji finansowych.
+## Problem, który rozwiązuje aplikacja:
+Aplikacja ułatwia użytkownikom dokładne planowanie
 
 ## Zacznijmy od początku
 
