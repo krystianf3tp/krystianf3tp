@@ -19,8 +19,8 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 !!!!!!!!!!!!! DO ZROBIENIA
 
 ## Opis modułów aplikacji
-* Moduł wczytywania danych:
-  Odpowiada za wprowadzenie danych użytkownika takich jak, kwota kredytu, liczba miesięcy, oprocentowanie oraz nadpłata. Dane są weryfikowane pod kątem poprawności
+### Moduł wczytywania danych:
+* Odpowiada za wprowadzenie danych użytkownika takich jak, kwota kredytu, liczba miesięcy, oprocentowanie oraz nadpłata. Dane są weryfikowane pod kątem poprawności
   
 
 ### Instalacja
