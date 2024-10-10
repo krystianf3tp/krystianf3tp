@@ -9,18 +9,18 @@ Kalkulator ratalny to aplikacja konsolowa, która umożliwia obliczenie harmonog
 Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględniając zmienne oprocentowanie oraz nadpłaty. Pozwala na szybkie obliczenia i symulacje, które mogą być trudne do wykonania ręcznie, dostarczając użytkownikowi jasne dane o jego zobowiązaniach kredytowych.
 
 # Architektura aplikacji
-!!!!!!!!!!!!! DO ZROBIENIA
+!!!!!!!!!!!!! DO ZROBIENIA.
 
 ## Opis modułów aplikacji
 
 ### Moduł wczytywania danych
-* Odpowiada za wprowadzenie danych użytkownika takich jak, kwota kredytu, liczba miesięcy, oprocentowanie oraz nadpłata. Dane są weryfikowane pod kątem poprawności
+* Odpowiada za wprowadzenie danych użytkownika takich jak, kwota kredytu, liczba miesięcy, oprocentowanie oraz nadpłata. Dane są weryfikowane pod kątem poprawności.
 
 ### Moduł obliczeń
-* Oblicza miesięczną ratę kredytu z podziałem na część kapitałową i odsetkową, na podstawie wprowadzonych danych. Uwzględnia wpływa nadpłaty na pozostały kapitał oraz modyfikuje harmonogram spłat
+* Oblicza miesięczną ratę kredytu z podziałem na część kapitałową i odsetkową, na podstawie wprowadzonych danych. Uwzględnia wpływa nadpłaty na pozostały kapitał oraz modyfikuje harmonogram spłat.
 
 ### Moduł wyświetlania wyników
-* Odpowiada za prezentację harmonogramu spłat, który zawiera szczegóły każdej raty, a także informacje o nadpłatach i pozostałym kapitale
+* Odpowiada za prezentację harmonogramu spłat, który zawiera szczegóły każdej raty, a także informacje o nadpłatach i pozostałym kapitale.
 
 # Opis funkcji i funkcjonalności
 
@@ -37,10 +37,13 @@ Aplikacja ułatwia użytkownikom dokładne planowanie spłaty kredytu, uwzględn
 * Pozwala użytkownikowi na opcjonalne wprowadzenie kwoty nadpłaty. Sprawdza, czy nadpłata nie przekracza kwoty kredytu.
 
 ### Funkcja obliczanieOprocentowania
-* Oblicza oprocentowanie miesięczne na podstawie wartości rocznego oprocentowania
+* Oblicza oprocentowanie miesięczne na podstawie wartości rocznego oprocentowania.
 
 ### Funkcja obliczRateKredytu
-* Oblicza miesięczną ratę kredytuz uwzględnieniem części kapitałowej i odsetkowej. Algorytm wykorzystuje formułę dla rat stałych
+* Oblicza miesięczną ratę kredytu z uwzględnieniem części kapitałowej i odsetkowej. Algorytm wykorzystuje formułę dla rat stałych.
+
+### Funkcja wyswietlanieHarmonogramu
+* Wyświetla szczegółowy harmonogram spłat, który zawiera informacje o częściach kapitałowej, odsetkowej oraz nadpłacie.
 
 
 ### Executing program
