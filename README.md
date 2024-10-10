@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 # Nazwa projektu
-Kalkulator Ratalny
+** Kalkulator Ratalny **
 
 ## Cel i funkcje aplikacji
 Kalkulator ratalny to aplikacja konsolowa, która umożliwia obliczenie harmonogramu spłat kredytu na podstawie kwoty kredytu, okresu spłaty, oprocentowania oraz opcjonalnej nadpłaty. Użytkownik wprowadza dane, a aplikacja oblicza i wyświetla miesięczne raty kredytu, dzieląc je na część kapitałową oraz odsetkową. Kalkulator pomaga również zrozumieć, jak nadpłata wpływa na skrócenie okresu kredytowania i zmniejszenie kwoty odsetek.
