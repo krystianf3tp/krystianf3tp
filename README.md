@@ -19,7 +19,7 @@ Kalkulator ratalny to przydatne narzędzie, które umożliwia szybkie i łatwe o
 
 Program jest zaprojektowany z myślą o użytkownikach, dlatego jest prosty w obsłudze i intuicyjny. Dzięki kalkulatorowi ratalnemu można szybko porównać różne oferty kredytowe i wybrać tę najkorzystniejszą. Narzędzie to uwzględnia również dodatkowe koszty, takie jak prowizje czy ubezpieczenia, co pozwala na dokładniejsze oszacowanie całkowitego kosztu kredytu. Jest to idealne rozwiązanie dla osób planujących zaciągnięcie kredytu, ponieważ pomaga w świadomym podejmowaniu decyzji finansowych.
 
-## Getting Started
+## Zacznijmy od początku
 
 ### Architektura aplikacji
 
